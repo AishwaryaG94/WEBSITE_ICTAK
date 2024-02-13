@@ -1,0 +1,214 @@
+
+1707494075520,898,-5,200,OK,ictthread 1-1,text,true,,755,2687,1,1,https://incoming.telemetry.mozilla.org/submit/firefox-desktop/newtab/1/429062ee-dfea-4742-993a-be6c552f5fcc,897,0,605
+1707494075406,898,Hom,200,"Number of samples in transaction : 1, number of failing samples : 0",ictthread 1-1,,true,,755,2687,1,1,null,897,134,605
+1707494076439,283,Ho-6,200,OK,ictthread 1-1,text,true,,853,1476,1,1,https://incoming.telemetry.mozilla.org/submit/firefox-desktop/pageload/1/b01343b9-a360-4cc7-bb0e-f2f569b8cb70,282,0,0
+1707494076724,258,Home-7,200,OK,ictthread 1-1,text,true,,890,2198,1,1,https://incoming.telemetry.mozilla.org/submit/firefox-desktop/messaging-system/1/090a5de5-28a5-4571-b560-a397c9b353d2,258,0,0
+1707494076985,312,Home-8,200,OK,ictthread 1-1,text,true,,881,2271,1,1,https://incoming.telemetry.mozilla.org/submit/firefox-desktop/messaging-system/1/ecfbb86e-070f-451d-aaba-9f52c905edd1,312,0,0
+1707494077300,289,Home-9,200,OK,ictthread 1-1,text,true,,802,2166,1,1,https://incoming.telemetry.mozilla.org/submit/firefox-desktop/messaging-system/1/e9294905-959f-42f6-9473-32d96ffbce33,289,0,0
+1707494077592,257,Home-10,200,OK,ictthread 1-1,text,true,,780,2188,1,1,https://incoming.telemetry.mozilla.org/submit/firefox-desktop/messaging-system/1/48da977f-c95c-4a7e-bcb6-a8141d80f386,257,0,0
+1707494077851,273,Home-11,200,OK,ictthread 1-1,text,true,,816,2139,1,1,https://incoming.telemetry.mozilla.org/submit/firefox-desktop/messaging-system/1/5c67ed60-6e6b-452c-aa13-8e3f0f350847,273,0,0
+1707494078126,288,Home-12,200,OK,ictthread 1-1,text,true,,895,2180,1,1,https://incoming.telemetry.mozilla.org/submit/firefox-desktop/messaging-system/1/ea396c24-d292-40ce-bbb2-869128577360,288,0,0
+1707494078417,278,Home-13,200,OK,ictthread 1-1,text,true,,888,1464,1,1,https://incoming.telemetry.mozilla.org/submit/firefox-desktop/newtab/1/f0a62db6-aac9-43ec-8ead-6f4a71feeade,277,0,0
+1707494078696,293,Home-14,200,OK,ictthread 1-1,text,true,,743,2655,1,1,https://incoming.telemetry.mozilla.org/submit/firefox-desktop/top-sites/1/c1eed3c3-91e9-4eda-87ab-c1c06083a54d,293,0,0
+1707494078991,302,Home-15,200,OK,ictthread 1-1,text,true,,816,2719,1,1,https://incoming.telemetry.mozilla.org/submit/firefox-desktop/top-sites/1/4ebe7b8a-201d-4db5-b8bf-9cbd6b889c97,302,0,0
+1707494079295,290,Home-16,200,OK,ictthread 1-1,text,true,,929,2313,1,1,https://incoming.telemetry.mozilla.org/submit/firefox-desktop/baseline/1/2a7a65e5-2147-48ca-ae04-aee621f34feb,290,0,0
+1707494079587,299,Home-17,200,OK,ictthread 1-1,text,true,,835,2441,1,1,https://incoming.telemetry.mozilla.org/submit/firefox-desktop/events/1/8f49c099-ab85-4391-9c43-bc0c73446d96,299,0,0
+1707494079890,78,Home-18,200,OK,ictthread 1-1,text,true,,2783,359,1,1,http://64.227.132.109/LandingPage,76,0,37
+1707494079971,298,Home-19,200,OK,ictthread 1-1,text,true,,877,1463,1,1,https://incoming.telemetry.mozilla.org/submit/activity-stream/sessions/1/42bba84b-13a9-49f3-9bee-69540f65cf4d,297,0,0
+1707494080270,39,Home-38,200,OK,ictthread 1-1,text,true,,1414,341,1,1,http://64.227.132.109/assets/material/img/down-arrow-dark.svg,39,0,0
+1707494080311,280,Home-48,200,OK,ictthread 1-1,text,true,,75867,320,1,1,http://64.227.132.109/api/course,177,0,0
+1707494080594,170,Home-47,200,OK,ictthread 1-1,text,true,,66674,320,1,1,http://64.227.132.109/api/events,106,0,0
+1707494080767,107,Home-49,200,OK,ictthread 1-1,text,true,,37739,330,1,1,http://64.227.132.109/api/hometestimonials,99,0,0
+1707494080876,106,Home-51,200,OK,ictthread 1-1,text,true,,37739,330,1,1,http://64.227.132.109/api/hometestimonials,102,0,0
+1707494080984,135,Home-50,200,OK,ictthread 1-1,text,true,,75867,320,1,1,http://64.227.132.109/api/course,105,0,0
+1707494081121,43,Home-54,200,OK,ictthread 1-1,text,true,,8892,389,1,1,http://64.227.132.109/nucleo-icons.8b3a763416dc36ab.woff2,39,0,0
+1707494081166,161,Home-52,200,OK,ictthread 1-1,text,true,,75867,320,1,1,http://64.227.132.109/api/course,113,0,0
+1707494081329,43,Home-56,200,OK,ictthread 1-1,text,true,,8892,403,1,1,http://64.227.132.109/assets/material/fonts/nucleo-icons.woff2,43,0,0
+1707494081374,58,Home-58,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691126630566.webp,40,0,0
+1707494081434,53,Home-61,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691126889254.webp,53,0,0
+1707494081490,58,Home-60,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691126887986.webp,57,0,0
+1707494081551,42,Home-59,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691126631935.webp,41,0,0
+1707494081596,43,Home-57,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691126213188.webp,42,0,0
+1707494081642,1973,Home-55,206,Partial Content,ictthread 1-1,bin,true,,4033780,404,1,1,http://64.227.132.109/assets/banner-home/video/banner.m4v,40,0,0
+1707494083619,51,Home-73,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691129034567.webp,49,0,0
+1707494083672,43,Home-63,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691127425214.webp,43,0,0
+1707494083717,44,Home-62,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691127423888.webp,43,0,0
+1707494083763,43,Home-65,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691127833751.webp,41,0,0
+1707494083808,42,Home-66,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691127932921.webp,40,0,0
+1707494083852,42,Home-74,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691129778637.webp,41,0,0
+1707494083897,41,Home-80,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691131478010.webp,40,0,0
+1707494083940,43,Home-67,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691127934363.webp,41,0,0
+1707494083985,62,Home-72,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691129035855.webp,62,0,0
+1707494084049,42,Home-76,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691131384422.webp,40,0,0
+1707494084093,45,Home-69,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691127994025.webp,44,0,0
+1707494084140,42,Home-71,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691128100943.webp,39,0,0
+1707494084183,41,Home-81,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691131834051.webp,39,0,0
+1707494084225,45,Home-79,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691131476661.webp,38,0,0
+1707494084271,41,Home-75,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691129779987.webp,40,0,0
+1707494084314,58,Home-77,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691131383154.webp,41,0,0
+1707494084373,46,Home-64,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691127832223.webp,40,0,0
+1707494084421,51,Home-70,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691128099662.webp,41,0,0
+1707494084474,43,Home-68,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691127992823.webp,40,0,0
+1707494084519,41,Home-83,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691131836494.webp,39,0,0
+1707494084562,43,Home-78,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691131475387.webp,41,0,0
+1707494084607,42,Home-82,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691131835234.webp,40,0,0
+1707494084650,43,Home-84,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691153486172.webp,41,0,0
+1707494084694,46,Home-85,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691153487773.webp,46,0,0
+1707494084742,45,Home-86,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691153489538.webp,43,0,0
+1707494084795,45,Home-88,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691305981634.webp,45,0,0
+1707494084843,41,Home-89,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691305983614.webp,40,0,0
+1707494084887,43,Home-90,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691496042549.webp,42,0,0
+1707494084932,52,Home-91,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691496044202.webp,50,0,0
+1707494084986,43,Home-92,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691496045946.webp,41,0,0
+1707494085031,45,Home-93,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691496746241.webp,41,0,0
+1707494085078,43,Home-95,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691496747896.webp,41,0,0
+1707494085123,41,Home-115,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691581531083.webp,40,0,0
+1707494085167,44,Home-120,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691583764209.webp,44,0,0
+1707494085212,53,Home-101,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691549965538.webp,45,0,0
+1707494085266,43,Home-122,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691584173630.webp,42,0,0
+1707494085310,52,Home-96,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691496749965.webp,51,0,0
+1707494085364,42,Home-103,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691563241981.webp,40,0,0
+1707494085407,48,Home-109,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691564419290.webp,48,0,0
+1707494085457,56,Home-121,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691584171992.webp,56,0,0
+1707494085515,41,Home-119,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691581532899.webp,40,0,0
+1707494085558,42,Home-113,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691578312544.webp,41,0,0
+1707494085602,44,Home-99,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691563240219.webp,43,0,0
+1707494085648,43,Home-110,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691564420951.webp,41,0,0
+1707494085692,44,Home-104,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691563243997.webp,42,0,0
+1707494085738,42,Home-105,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691581529160.webp,41,0,0
+1707494085782,41,Home-126,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691583762323.webp,41,0,0
+1707494085825,51,Home-112,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691564422868.webp,50,0,0
+1707494085878,50,Home-106,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691563974665.webp,50,0,0
+1707494085930,51,Home-100,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691549964050.webp,51,0,0
+1707494085983,41,Home-102,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691578313736.webp,40,0,0
+1707494086026,43,Home-118,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691583760636.webp,42,0,0
+1707494086071,42,Home-108,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691563976598.webp,42,0,0
+1707494086115,47,Home-107,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691563978792.webp,47,0,0
+1707494086164,47,Home-98,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691549961708.webp,47,0,0
+1707494086213,45,Home-128,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691584175243.webp,45,0,0
+1707494086261,81,Home-138,200,OK,ictthread 1-1,text,true,,112807,334,1,1,http://64.227.132.109/uploads/file1-1670396733705.jfif,41,0,0
+1707494086344,70,Home-165,200,OK,ictthread 1-1,bin,true,,56637,334,1,1,http://64.227.132.109/uploads/file1-1689684093846.webp,61,0,0
+1707494086416,64,Home-167,200,OK,ictthread 1-1,bin,true,,56637,334,1,1,http://64.227.132.109/uploads/file1-1690098498428.webp,41,0,0
+1707494086482,70,Home-170,200,OK,ictthread 1-1,bin,true,,56637,334,1,1,http://64.227.132.109/uploads/file1-1689178515164.webp,50,0,0
+1707494086554,53,Home-176,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691055081114.webp,53,0,0
+1707494086608,47,Home-177,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691124779633.webp,46,0,0
+1707494086655,40,Home-184,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691125289622.webp,39,0,0
+1707494086696,45,Home-114,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691578315283.webp,42,0,0
+1707494086742,40,Home-179,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691125043959.webp,39,0,0
+1707494086784,51,Home-178,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691125029937.webp,49,0,0
+1707494086836,41,Home-183,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691125288336.webp,40,0,0
+1707494086879,47,Home-180,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691125139756.webp,47,0,0
+1707494086927,51,Home-185,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691126211853.webp,49,0,0
+1707494086979,40,Home-181,200,OK,ictthread 1-1,bin,true,,14515,334,1,1,http://64.227.132.109/uploads/file1-1691125180313.webp,40,0,0
+1707494087021,56,Home-293,206,Partial Content,ictthread 1-1,bin,true,,36088,410,1,1,http://64.227.132.109/assets/banner-home/video/banner.m4v,43,0,0
+1707494087079,412,Home-294,206,Partial Content,ictthread 1-1,bin,true,,888057,410,1,1,http://64.227.132.109/assets/banner-home/video/banner.m4v,41,0,0
+1707494087495,135,Home-295,400,Bad Request,ictthread 1-1,text,false,,468,595,1,1,https://push.services.mozilla.com/,133,0,104
+1707494076438,10982,Home,,"Number of samples in transaction : 102, number of failing samples : 1",ictthread 1-1,,false,,6674415,57974,1,1,null,8164,211,141
+1707494087632,296,Home-298,200,OK,ictthread 1-1,text,true,,867,2801,1,1,https://incoming.telemetry.mozilla.org/submit/firefox-desktop/newtab/1/8df777d6-ce2f-481f-9532-301ebc6e25d3,296,0,0
+1707494087631,296,Home,200,"Number of samples in transaction : 1, number of failing samples : 0",ictthread 1-1,,true,,867,2801,1,1,null,296,2,0
+1707494087934,108,Home-menu-300,200,OK,ictthread 1-1,text,true,,901,317,1,1,http://fonts.googleapis.com/css?family=Lato%3A300%3A400,102,0,39
+1707494088044,68,Home-menu-323,200,OK,ictthread 1-1,text,true,,2927,328,1,1,http://64.227.132.109/api/industry,68,0,0
+1707494088114,59,Home-menu-324,200,OK,ictthread 1-1,text,true,,1554,329,1,1,http://64.227.132.109/api/knowledge,59,0,0
+1707494088174,59,Home-menu-325,200,OK,ictthread 1-1,text,true,,275,333,1,1,http://64.227.132.109/api/staff/leaders,59,0,0
+1707494088235,63,Home-menu-327,200,OK,ictthread 1-1,text,true,,8763,330,1,1,http://64.227.132.109/api/staff/team,63,0,0
+1707494088300,179,Home-menu-321,200,OK,ictthread 1-1,text,true,,75867,326,1,1,http://64.227.132.109/api/course,156,0,0
+1707494088480,122,Home-menu-322,200,OK,ictthread 1-1,text,true,,66674,326,1,1,http://64.227.132.109/api/events,103,0,0
+1707494088604,100,Home-menu-328,200,OK,ictthread 1-1,text,true,,2150,327,1,1,http://64.227.132.109/api/patrons,100,0,0
+1707494088705,49,Home-menu-329,200,OK,ictthread 1-1,text,true,,24935,339,1,1,http://64.227.132.109/uploads/image-1662449912659.xls,45,0,0
+1707494088755,45,Home-menu-345,200,OK,ictthread 1-1,text,true,,18601,340,1,1,http://64.227.132.109/uploads/image-1689439784437.docx,42,0,0
+1707494088801,44,Home-menu-351,200,OK,ictthread 1-1,text,true,,18601,340,1,1,http://64.227.132.109/uploads/image-1689439787282.docx,44,0,0
+1707494088846,48,Home-menu-353,200,OK,ictthread 1-1,text,true,,18601,340,1,1,http://64.227.132.109/uploads/image-1689439787836.docx,48,0,0
+1707494088895,38,Home-menu-356,200,OK,ictthread 1-1,text,true,,348,339,1,1,http://64.227.132.109/uploads/image-1691501964047.txt,38,0,0
+1707494088934,65,Home-menu-357,200,OK,ictthread 1-1,text,true,,353,339,1,1,http://64.227.132.109/uploads/image-1691502194928.txt,65,0,34
+1707494089000,297,Home-menu-340,200,OK,ictthread 1-1,text,true,,366651,339,1,1,http://64.227.132.109/uploads/image-1689243435743.pdf,36,0,0
+1707494089299,54,Home-menu-342,200,OK,ictthread 1-1,bin,true,,56637,340,1,1,http://64.227.132.109/uploads/image-1689432140523.webp,38,0,0
+1707494089355,40,Home-menu-349,200,OK,ictthread 1-1,text,true,,18601,340,1,1,http://64.227.132.109/uploads/image-1689439785474.docx,38,0,0
+1707494089397,38,Home-menu-343,200,OK,ictthread 1-1,text,true,,18601,340,1,1,http://64.227.132.109/uploads/image-1689439781291.docx,36,0,0
+1707494089436,42,Home-menu-346,200,OK,ictthread 1-1,text,true,,18601,340,1,1,http://64.227.132.109/uploads/image-1689439784382.docx,40,0,0
+1707494089479,39,Home-menu-352,200,OK,ictthread 1-1,text,true,,18601,340,1,1,http://64.227.132.109/uploads/image-1689439787502.docx,37,0,0
+1707494089521,39,Home-menu-348,200,OK,ictthread 1-1,text,true,,18601,340,1,1,http://64.227.132.109/uploads/image-1689439784771.docx,36,0,0
+1707494089562,31,Home-menu-374,200,OK,ictthread 1-1,text,true,,353,339,1,1,http://64.227.132.109/uploads/image-1691502098046.txt,31,0,0
+1707494089594,41,Home-menu-384,200,OK,ictthread 1-1,text,true,,13094,340,1,1,http://64.227.132.109/uploads/image-1647614033758.html,38,0,0
+1707494089636,44,Home-menu-344,200,OK,ictthread 1-1,text,true,,18601,340,1,1,http://64.227.132.109/uploads/image-1689439783713.docx,39,0,0
+1707494089682,39,Home-menu-350,200,OK,ictthread 1-1,text,true,,18601,340,1,1,http://64.227.132.109/uploads/image-1689439786396.docx,37,0,0
+1707494089723,54,Home-menu-341,200,OK,ictthread 1-1,bin,true,,56637,340,1,1,http://64.227.132.109/uploads/image-1689432140382.webp,37,0,0
+1707494089778,46,Home-menu-347,200,OK,ictthread 1-1,text,true,,18601,340,1,1,http://64.227.132.109/uploads/image-1689439784685.docx,45,0,0
+1707494089828,117,Home-menu-398,200,OK,ictthread 1-1,text,true,,23996,406,1,1,http://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USSwiPGQ.woff2,85,0,42
+1707494089947,119,Home-menu-404,200,OK,ictthread 1-1,text,true,,37739,338,1,1,http://64.227.132.109/api/hometestimonials,110,0,0
+1707494090067,115,Home-menu-400,200,OK,ictthread 1-1,text,true,,37739,338,1,1,http://64.227.132.109/api/hometestimonials,106,0,0
+1707494090184,120,Home-menu-403,200,OK,ictthread 1-1,text,true,,66674,328,1,1,http://64.227.132.109/api/events,101,0,0
+1707494090306,147,Home-menu-401,200,OK,ictthread 1-1,text,true,,75867,328,1,1,http://64.227.132.109/api/course,101,0,0
+1707494090456,137,Home-menu-402,200,OK,ictthread 1-1,text,true,,75867,328,1,1,http://64.227.132.109/api/course,113,0,0
+1707494090594,153,Home-menu-405,200,OK,ictthread 1-1,text,true,,75867,328,1,1,http://64.227.132.109/api/course,114,0,0
+1707494087929,2759,Home-menu,200,"Number of samples in transaction : 34, number of failing samples : 0",ictthread 1-1,,true,,1276479,11465,1,1,null,2210,59,115
+1707494090749,34,Home-menu-414,200,OK,ictthread 1-1,text,true,,1169,342,1,1,http://64.227.132.109/assets/material/img/wave-1.svg,34,0,0
+1707494090785,156,Home-menu-419,200,OK,ictthread 1-1,text,true,,75867,330,1,1,http://64.227.132.109/api/course,133,0,0
+1707494090943,120,Home-menu-420,200,OK,ictthread 1-1,text,true,,66674,330,1,1,http://64.227.132.109/api/events,96,0,0
+1707494091065,532,Home-menu-426,404,Not Found,ictthread 1-1,text,false,,591,556,1,1,https://firebasestorage.googleapis.com/v0/b/ictk-98c09.appspot.com/o/staffs%2FSun%20Aug%2015%202021%2019%3A50%3A33%20GMT%2B0530%20(India%20Standard%20Time)?alt=media&token=94080cd3-a007-4e6d-987e-1135993fb7c3,531,0,138
+1707494091599,332,Home-menu-425,404,Not Found,ictthread 1-1,text,false,,584,556,1,1,https://firebasestorage.googleapis.com/v0/b/ictk-98c09.appspot.com/o/staffs%2FSun%20Aug%2015%202021%2019%3A49%3A34%20GMT%2B0530%20(India%20Standard%20Time)?alt=media&token=4b088937-baba-48d6-8217-0352c6995176,332,0,0
+1707494091932,328,Home-menu-423,404,Not Found,ictthread 1-1,text,false,,584,556,1,1,https://firebasestorage.googleapis.com/v0/b/ictk-98c09.appspot.com/o/staffs%2FSun%20Aug%2015%202021%2019%3A52%3A24%20GMT%2B0530%20(India%20Standard%20Time)?alt=media&token=8f527a48-7132-4fff-bac9-3f26ca953aff,328,0,0
+1707494092261,387,Home-menu-424,404,Not Found,ictthread 1-1,text,false,,584,556,1,1,https://firebasestorage.googleapis.com/v0/b/ictk-98c09.appspot.com/o/staffs%2FSun%20Aug%2015%202021%2019%3A52%3A50%20GMT%2B0530%20(India%20Standard%20Time)?alt=media&token=4ea70925-af86-44fe-bdec-3d843e5fa95c,387,0,0
+1707494092650,394,Home-menu-421,404,Not Found,ictthread 1-1,text,false,,591,556,1,1,https://firebasestorage.googleapis.com/v0/b/ictk-98c09.appspot.com/o/staffs%2FSun%20Aug%2015%202021%2019%3A51%3A46%20GMT%2B0530%20(India%20Standard%20Time)?alt=media&token=515aab4c-9c35-482d-8168-da7296f19712,394,0,0
+1707494093048,393,Home-menu-422,404,Not Found,ictthread 1-1,text,false,,591,556,1,1,https://firebasestorage.googleapis.com/v0/b/ictk-98c09.appspot.com/o/staffs%2FSun%20Aug%2015%202021%2019%3A52%3A39%20GMT%2B0530%20(India%20Standard%20Time)?alt=media&token=0b6a6712-017b-4654-bdde-f4da17e006af,393,0,0
+1707494093441,392,Home-menu-427,404,Not Found,ictthread 1-1,text,false,,591,556,1,1,https://firebasestorage.googleapis.com/v0/b/ictk-98c09.appspot.com/o/staffs%2FSun%20Aug%2015%202021%2019%3A50%3A56%20GMT%2B0530%20(India%20Standard%20Time)?alt=media&token=1dc48a11-a351-413d-abc1-f6142a2fa9b6,392,0,0
+1707494093834,392,Home-menu-428,404,Not Found,ictthread 1-1,text,false,,591,556,1,1,https://firebasestorage.googleapis.com/v0/b/ictk-98c09.appspot.com/o/staffs%2FSun%20Aug%2015%202021%2019%3A51%3A18%20GMT%2B0530%20(India%20Standard%20Time)?alt=media&token=b19e585a-1d93-404f-a7f3-5089f37cbc46,392,0,0
+1707494090748,3460,Home-menu,,"Number of samples in transaction : 11, number of failing samples : 8",ictthread 1-1,,false,,148417,5450,1,1,null,3412,19,138
+1707494094228,54,About Us-435,200,OK,ictthread 1-1,text,true,,275,333,1,1,http://64.227.132.109/api/staff/leaders,54,0,0
+1707494094284,63,About Us-437,200,OK,ictthread 1-1,text,true,,8763,330,1,1,http://64.227.132.109/api/staff/team,61,0,0
+1707494094348,59,About Us-433,200,OK,ictthread 1-1,text,true,,2927,328,1,1,http://64.227.132.109/api/industry,58,0,0
+1707494094409,193,About Us-432,200,OK,ictthread 1-1,text,true,,66674,326,1,1,http://64.227.132.109/api/events,129,0,0
+1707494094604,60,About Us-434,200,OK,ictthread 1-1,text,true,,1554,329,1,1,http://64.227.132.109/api/knowledge,60,0,0
+1707494094666,46,About Us-444,200,OK,ictthread 1-1,text,true,,24935,339,1,1,http://64.227.132.109/uploads/image-1662449912659.xls,45,0,0
+1707494094713,46,About Us-449,200,OK,ictthread 1-1,text,true,,18601,340,1,1,http://64.227.132.109/uploads/image-1689439784437.docx,45,0,0
+1707494094760,42,About Us-450,200,OK,ictthread 1-1,text,true,,18601,340,1,1,http://64.227.132.109/uploads/image-1689439784685.docx,42,0,0
+1707494094803,49,About Us-448,200,OK,ictthread 1-1,text,true,,18601,340,1,1,http://64.227.132.109/uploads/image-1689439784382.docx,48,0,0
+1707494094853,41,About Us-452,200,OK,ictthread 1-1,text,true,,18601,340,1,1,http://64.227.132.109/uploads/image-1689439785474.docx,41,0,0
+1707494094896,39,About Us-453,200,OK,ictthread 1-1,text,true,,18601,340,1,1,http://64.227.132.109/uploads/image-1689439786396.docx,36,0,0
+1707494094936,33,About Us-457,200,OK,ictthread 1-1,text,true,,353,339,1,1,http://64.227.132.109/uploads/image-1691501964047.txt,33,0,0
+1707494094971,39,About Us-451,200,OK,ictthread 1-1,text,true,,18601,340,1,1,http://64.227.132.109/uploads/image-1689439784771.docx,37,0,0
+1707494095012,402,About Us-441,404,Not Found,ictthread 1-1,text,false,,584,556,1,1,https://firebasestorage.googleapis.com/v0/b/ictk-98c09.appspot.com/o/staffs%2FSun%20Aug%2015%202021%2019%3A52%3A50%20GMT%2B0530%20(India%20Standard%20Time)?alt=media&token=4ea70925-af86-44fe-bdec-3d843e5fa95c,402,0,0
+1707494095415,33,About Us-458,200,OK,ictthread 1-1,text,true,,353,339,1,1,http://64.227.132.109/uploads/image-1691502194928.txt,33,0,0
+1707494095448,39,About Us-455,200,OK,ictthread 1-1,text,true,,18601,340,1,1,http://64.227.132.109/uploads/image-1689439787502.docx,37,0,0
+1707494095489,38,About Us-456,200,OK,ictthread 1-1,text,true,,18601,340,1,1,http://64.227.132.109/uploads/image-1689439787836.docx,36,0,0
+1707494095529,396,About Us-440,404,Not Found,ictthread 1-1,text,false,,584,556,1,1,https://firebasestorage.googleapis.com/v0/b/ictk-98c09.appspot.com/o/staffs%2FSun%20Aug%2015%202021%2019%3A52%3A39%20GMT%2B0530%20(India%20Standard%20Time)?alt=media&token=0b6a6712-017b-4654-bdde-f4da17e006af,396,0,0
+1707494095926,344,About Us-438,404,Not Found,ictthread 1-1,text,false,,591,556,1,1,https://firebasestorage.googleapis.com/v0/b/ictk-98c09.appspot.com/o/staffs%2FSun%20Aug%2015%202021%2019%3A51%3A46%20GMT%2B0530%20(India%20Standard%20Time)?alt=media&token=515aab4c-9c35-482d-8168-da7296f19712,344,0,0
+1707494096271,386,About Us-439,404,Not Found,ictthread 1-1,text,false,,584,556,1,1,https://firebasestorage.googleapis.com/v0/b/ictk-98c09.appspot.com/o/staffs%2FSun%20Aug%2015%202021%2019%3A52%3A24%20GMT%2B0530%20(India%20Standard%20Time)?alt=media&token=8f527a48-7132-4fff-bac9-3f26ca953aff,386,0,0
+1707494096659,331,About Us-442,404,Not Found,ictthread 1-1,text,false,,584,556,1,1,https://firebasestorage.googleapis.com/v0/b/ictk-98c09.appspot.com/o/staffs%2FSun%20Aug%2015%202021%2019%3A49%3A34%20GMT%2B0530%20(India%20Standard%20Time)?alt=media&token=4b088937-baba-48d6-8217-0352c6995176,331,0,0
+1707494096992,71,About Us-447,200,OK,ictthread 1-1,text,true,,18601,340,1,1,http://64.227.132.109/uploads/image-1689439783713.docx,39,0,0
+1707494097065,46,About Us-454,200,OK,ictthread 1-1,text,true,,18601,340,1,1,http://64.227.132.109/uploads/image-1689439787282.docx,38,0,0
+1707494097112,237,About Us-445,200,OK,ictthread 1-1,text,true,,366651,339,1,1,http://64.227.132.109/uploads/image-1689243435743.pdf,35,0,0
+1707494097350,38,About Us-446,200,OK,ictthread 1-1,text,true,,18601,340,1,1,http://64.227.132.109/uploads/image-1689439781291.docx,38,0,0
+1707494097390,61,About Us-436,200,OK,ictthread 1-1,text,true,,2150,327,1,1,http://64.227.132.109/api/patrons,60,0,0
+1707494097452,177,About Us-431,200,OK,ictthread 1-1,text,true,,75867,326,1,1,http://64.227.132.109/api/course,157,0,0
+1707494097630,427,About Us-443,404,Not Found,ictthread 1-1,text,false,,584,556,1,1,https://firebasestorage.googleapis.com/v0/b/ictk-98c09.appspot.com/o/staffs%2FSun%20Aug%2015%202021%2019%3A50%3A33%20GMT%2B0530%20(India%20Standard%20Time)?alt=media&token=94080cd3-a007-4e6d-987e-1135993fb7c3,427,0,0
+1707494098057,390,About Us-460,404,Not Found,ictthread 1-1,text,false,,591,556,1,1,https://firebasestorage.googleapis.com/v0/b/ictk-98c09.appspot.com/o/staffs%2FSun%20Aug%2015%202021%2019%3A51%3A18%20GMT%2B0530%20(India%20Standard%20Time)?alt=media&token=b19e585a-1d93-404f-a7f3-5089f37cbc46,390,0,0
+1707494098449,35,About Us-461,200,OK,ictthread 1-1,text,true,,353,339,1,1,http://64.227.132.109/uploads/image-1691502098046.txt,35,0,0
+1707494098485,42,About Us-462,200,OK,ictthread 1-1,text,true,,13094,340,1,1,http://64.227.132.109/uploads/image-1647614033758.html,39,0,0
+1707494098529,339,About Us-459,404,Not Found,ictthread 1-1,text,false,,584,556,1,1,https://firebasestorage.googleapis.com/v0/b/ictk-98c09.appspot.com/o/staffs%2FSun%20Aug%2015%202021%2019%3A50%3A56%20GMT%2B0530%20(India%20Standard%20Time)?alt=media&token=1dc48a11-a351-413d-abc1-f6142a2fa9b6,339,0,0
+1707494094227,4596,About Us,,"Number of samples in transaction : 32, number of failing samples : 8",ictthread 1-1,,false,,773246,12522,1,1,null,4251,47,0
+1707494098870,56,Courses-465,200,OK,ictthread 1-1,text,true,,995,397,1,1,http://64.227.132.109/api/course/courseSingle/64c3a04cdec88edd65c82dbd,56,0,0
+1707494098929,224,Courses-467,200,OK,ictthread 1-1,text,true,,66674,359,1,1,http://64.227.132.109/api/events,148,0,0
+1707494099154,161,Courses-466,200,OK,ictthread 1-1,text,true,,75867,359,1,1,http://64.227.132.109/api/course,136,0,0
+1707494099317,62,Courses-468,200,OK,ictthread 1-1,text,true,,275,486,1,1,http://64.227.132.109/api/CourseTestimony/individual,62,0,0
+1707494098870,503,Courses,200,"Number of samples in transaction : 4, number of failing samples : 0",ictthread 1-1,,true,,143811,1601,1,1,null,402,7,0
+1707494099384,290,Courses-469,200,OK,ictthread 1-1,text,true,,684,495,1,1,https://www.googletagmanager.com/ns.html?id=GTM-NKDMSK6,290,0,170
+1707494099675,72,Courses-470,200,OK,ictthread 1-1,text,true,,684,495,1,1,https://www.googletagmanager.com/ns.html?id=GTM-NKDMSK6,72,0,0
+1707494099380,362,Courses,200,"Number of samples in transaction : 2, number of failing samples : 0",ictthread 1-1,,true,,1368,990,1,1,null,362,6,170
+1707494099752,1567,Courses-471,200,OK,ictthread 1-1,bin,true,,3934,2864,1,1,https://px.ads.linkedin.com/collect?pid=4268873&fmt=gif&cookiesTest=true&liSync=true,481,0,166
+1707494099752,481,Courses-471-0,302,Found,ictthread 1-1,,true,,967,415,1,1,https://dc.ads.linkedin.com/collect/?pid=4268873&fmt=gif,481,0,166
+1707494100258,255,Courses-471-1,302,Found,ictthread 1-1,,true,,1273,648,1,1,https://dc.ads.linkedin.com/collect?pid=4268873&fmt=gif&cookiesTest=true,255,0,0
+1707494100525,398,Courses-471-2,302,Found,ictthread 1-1,,true,,899,935,1,1,https://www.linkedin.com/px/li_sync?redirect=https%3A%2F%2Fpx.ads.linkedin.com%2Fcollect%3Fpid%3D4268873%26fmt%3Dgif%26cookiesTest%3Dtrue%26liSync%3Dtrue,398,0,121
+1707494100929,391,Courses-471-3,200,OK,ictthread 1-1,bin,true,,795,866,1,1,https://px.ads.linkedin.com/collect?pid=4268873&fmt=gif&cookiesTest=true&liSync=true,391,0,142
+1707494101325,256,Courses-472,200,OK,ictthread 1-1,bin,true,,795,854,1,1,https://dc.ads.linkedin.com/collect?pid=4268873&fmt=gif&cookiesTest=true,256,0,0
+1707494101586,75,Courses-473,200,OK,ictthread 1-1,text,true,,445,615,1,1,http://64.227.132.109/api/registration/courseRegister,75,0,0
+1707494101663,36,Courses-474,200,OK,ictthread 1-1,text,true,,2783,398,1,1,http://64.227.132.109/LandingPage/singlecourses/64c3a04cdec88edd65c82dbd,36,0,0
+1707494101701,34,Courses-495,200,OK,ictthread 1-1,text,true,,1414,380,1,1,http://64.227.132.109/assets/material/img/down-arrow-dark.svg,34,0,0
+1707494101738,72,Courses-500,200,OK,ictthread 1-1,text,true,,684,495,1,1,https://www.googletagmanager.com/ns.html?id=GTM-NKDMSK6,72,0,0
+1707494101812,69,Courses-501,200,OK,ictthread 1-1,text,true,,684,495,1,1,https://www.googletagmanager.com/ns.html?id=GTM-NKDMSK6,69,0,0
+1707494101883,239,Courses-503,200,OK,ictthread 1-1,text,true,,75867,359,1,1,http://64.227.132.109/api/course,159,0,0
+1707494102124,124,Courses-504,200,OK,ictthread 1-1,text,true,,66674,359,1,1,http://64.227.132.109/api/events,102,0,0
+1707494102252,260,Courses-505,200,OK,ictthread 1-1,bin,true,,795,838,1,1,https://dc.ads.linkedin.com/collect/?pid=4268873&fmt=gif,260,0,0
+1707494102517,59,Courses-502,200,OK,ictthread 1-1,text,true,,995,397,1,1,http://64.227.132.109/api/course/courseSingle/64c3a04cdec88edd65c82dbd,59,0,0
+1707494102582,255,Courses-506,200,OK,ictthread 1-1,bin,true,,795,854,1,1,https://dc.ads.linkedin.com/collect?pid=4268873&fmt=gif&cookiesTest=true,254,0,0
+1707494102841,62,Courses-507,200,OK,ictthread 1-1,text,true,,275,486,1,1,http://64.227.132.109/api/CourseTestimony/individual,62,0,0
+1707494099748,3108,Courses,200,"Number of samples in transaction : 13, number of failing samples : 0",ictthread 1-1,,true,,156140,9394,1,1,null,1919,47,166
